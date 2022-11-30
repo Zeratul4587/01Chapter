@@ -1,0 +1,15 @@
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\bin\Debug\net6.0\07 Task.exe
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\bin\Debug\net6.0\07 Task.deps.json
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\bin\Debug\net6.0\07 Task.runtimeconfig.json
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\bin\Debug\net6.0\07 Task.dll
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\bin\Debug\net6.0\07 Task.pdb
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.csproj.AssemblyReference.cache
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.AssemblyInfoInputs.cache
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.AssemblyInfo.cs
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.csproj.CoreCompileInputs.cache
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.dll
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\refint\07 Task.dll
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.pdb
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\07 Task.genruntimeconfig.cache
+C:\Users\kirillazarov\Documents\Visual studio project\01Chapter\07 Task\obj\Debug\net6.0\ref\07 Task.dll
